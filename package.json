@@ -1,0 +1,24 @@
+{
+  "name": "hkc_graphgl_server",
+  "version": "1.0.0",
+  "description": "hkc_graphgl_server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekoarr/hkc_graphgl_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekoarr/hkc_graphgl_server/issues"
+  },
+  "homepage": "https://github.com/ekoarr/hkc_graphgl_server#readme",
+  "dependencies": {
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.0"
+  }
+}
